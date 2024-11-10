@@ -4,7 +4,7 @@ type,shell
 name,Blushie
 craftman,Galla
 craftmanurl,https://gallathegalla.github.io/gtg-ghosts/
-homeurl,https://raw.githubusercontent.com/Zichqec/s-the-skeleton/master/updates/shells/needle/blushie_gtg/
+homeurl,https://raw.githubusercontent.com/GallaTheGalla/blushie/main/
 
 seriko.alignmenttodesktop,free
 seriko.use_self_alpha,1
