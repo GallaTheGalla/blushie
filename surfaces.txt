@@ -1,0 +1,10 @@
+descript
+{
+	version,1
+}
+
+surface0
+{
+	animation0.interval,bind
+	animation0.pattern0,overlay,10,0,0,0
+}
